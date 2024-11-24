@@ -1,0 +1,38 @@
+body {
+    color: black;
+    justify-content: center;
+}
+
+.tabla {
+    width: 70%;
+    margin: 20px auto;
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 20px;
+    color: #b31e1e;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 0 auto;
+    background-color: #80c6d3;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+th, td {
+    border: 1px solid #80c6d3;
+    padding: 10px;
+    text-align: center;
+}
+
+thead {
+    background-color: #80c6d3;
+    color: #fff;
+}
+
+tbody tr{
+    background-color: white;
+}
